@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Více inforamcí o mě.
 
 ### Informace
 
