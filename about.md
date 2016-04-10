@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Více inforamcí o mě.
 
-### More Information
+### Informace
 
-A place to include any other types of information that you'd like to include about yourself.
+Školní projekt.
 
-### Contact me
+### Kontakt
 
-[email@domain.com](mailto:email@domain.com)
+[418423@mail.muni.cz](mailto:418423@mail.muni.cz)
