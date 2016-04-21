@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Evidence na úřadu práce
+name: dokiinka
 
 # Short bio or description (displayed in the header)
 description: Jak se evidovat na úřadu práce
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/17623691?v=3&u=1e61fee24eee34591492463ce9d536b6c020f214&s=140
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # 
 # Flags below are optional
