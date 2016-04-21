@@ -3,15 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: dokiinka
+name: Evidence na úřadu práce
 
 # Short bio or description (displayed in the header)
-description: Evidence na úřadu práce
+description: Jak se evidovat na úřadu práce
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/17623691?v=3&u=1e61fee24eee34591492463ce9d536b6c020f214&s=140
 
-#
+# 
 # Flags below are optional
 #
 
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  # twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
