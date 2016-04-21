@@ -31,14 +31,14 @@ Evidence na úřadu práce
 
 ### Seznam zásadních webových zdrojů, které se věnují stejné oblasti
 
-#### Oficiální stránky Ministerstva práce a sociálních věcí: https://portal.mpsv.cz
--	Formuláře do evidence: https://formulare.mpsv.cz/okprace/cs/welcome/forms.jsp?NID=EFOKprace.Obcan
--	Často kladené otázky: https://portal.mpsv.cz/sz/call_centrum/faq
+[Oficiální stránky Ministerstva práce a sociálních věcí](https://portal.mpsv.cz)
+-	[Formuláře do evidence](https://formulare.mpsv.cz/okprace/cs/welcome/forms.jsp?NID=EFOKprace.Obcan)
+-	[Často kladené otázky](https://portal.mpsv.cz/sz/call_centrum/faq)
 
-#### Práce.cz: http://www.prace.cz/poradna/aktuality/detail/article/co-vas-ceka-na-uradu-prace/
+[Práce.cz](http://www.prace.cz/poradna/aktuality/detail/article/co-vas-ceka-na-uradu-prace/)
 -	Obsahuje chybu v bodu číslo 10 o započtení doby evidence do důchodu, viz odkaz níž.
 
-#### Česká správa sociálního zabezpečení: http://www.cssz.cz/cz/o-cssz/informace/media/tiskove-zpravy/tiskove-zpravy-2012/2012-11-29-evidence-na-uradu-prace-se-pro-narok-na-starobni-duchod-i-pro-vysi-duchodu-hodnoti-v-omez.htm
+[Česká správa sociálního zabezpečení](http://www.cssz.cz/cz/o-cssz/informace/media/tiskove-zpravy/tiskove-zpravy-2012/2012-11-29-evidence-na-uradu-prace-se-pro-narok-na-starobni-duchod-i-pro-vysi-duchodu-hodnoti-v-omez.htm)
 
 -	Více webových zdrojů, které by měly aktuální a správné informace, jsme nenašli. Na většině stránek se opakují pořád ty stejné informace. Právě proto tvoříme tento web.
 
