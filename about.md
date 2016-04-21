@@ -58,7 +58,7 @@ Informace na jednotlivých pobočkách úřadu práce
 
 
 ### Vizuální inspirace pro budoucí vzhled webu
-
+Jednoduché, přehledné. Žádné extra obrázky ani výrazný design. Uživatelé přijdou na web, najdou informace a opustí jej. Cílem webu je rychlé poskytnutí nezbytných informací, proto musí být jasný a přehledný, s přesně daným cílem.
 
 ### Základní obsah k tématu
 -	Evidence na úřadu práce po skončení zaměstnání, popř. po ukončení Dohody o pracovní činnosti nebo Dohody o provedení práce
