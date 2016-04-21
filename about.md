@@ -32,7 +32,7 @@ Jak postupovat při evidenci na úřadu práce
 ### Seznam zásadních webových zdrojů, které se věnují stejné oblasti
 
 #### Oficiální stránky Ministerstva práce a sociálních věcí: https://portal.mpsv.cz
--	Formuláře do evidence: https://formulare.mpsv.cz/okprace/cs/welcome/forms.jsp?NID=EFOKprace.Obcan
+-	Formuláře do evidence: <a href="https://formulare.mpsv.cz/okprace/cs/welcome/forms.jsp?NID=EFOKprace.Obcan"></a>
 -	Často kladené otázky: https://portal.mpsv.cz/sz/call_centrum/faq
 
 #### Práce.cz: http://www.prace.cz/poradna/aktuality/detail/article/co-vas-ceka-na-uradu-prace/
