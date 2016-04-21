@@ -56,7 +56,9 @@ Informace na jednotlivých pobočkách úřadu práce
 
 ### Dostupná multimédia
 
-[Reportáž České televize na Úřadu práce v Brně a Valašských Kloboukách](http://www.ceskatelevize.cz/ivysilani/10122427178-udalosti-v-regionech-brno/316281381990201-udalosti-v-regionech)
+- [Reportáž České televize na Úřadu práce v Brně a Valašských Kloboukách](http://www.ceskatelevize.cz/ivysilani/10122427178-udalosti-v-regionech-brno/316281381990201-udalosti-v-regionech)
+- [Užitečné odkazy pro uchazeče o zaměstnání](http://portal.mpsv.cz/upcr/letaky/mpsv_mikop_zap_letak_uzitecne_odkazy.pdf)
+
 
 ### Vizuální inspirace pro budoucí vzhled webu
 Jednoduché, přehledné. Žádné extra obrázky ani výrazný design. Uživatelé přijdou na web, najdou informace a opustí jej. Cílem webu je rychlé poskytnutí nezbytných informací, proto musí být jasný a přehledný, s přesně daným cílem.
