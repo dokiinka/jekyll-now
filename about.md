@@ -27,7 +27,7 @@ Cílem je zprostředkovat všem uchazečům o evidenci na úřadu práce co nejp
 
 ### Název webu
 
-Jak postupovat při evidenci na úřadu práce
+Evidence na úřadu práce
 
 ### Seznam zásadních webových zdrojů, které se věnují stejné oblasti
 
