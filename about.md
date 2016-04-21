@@ -48,7 +48,7 @@ Call Centrum Úřadu práce: 844 844 803
 
 Zákon č. 435/2004 Sb. o zaměstnanosti
 
-Praktické informace pro klienty ÚP ČR. 1. vydání. Praha: Ministerstvo práce a sociálních věcí ČR, 2015. ISBN 978-80-7421-113-3.
+*Praktické informace pro klienty ÚP ČR*. 1. vydání. Praha: Ministerstvo práce a sociálních věcí ČR, 2015. ISBN 978-80-7421-113-3.
 
 Informace na jednotlivých pobočkách úřadu práce
 
