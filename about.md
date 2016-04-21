@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O projektu
-permalink: /o-projektu/
+permalink: /oprojektu/
 ---
 
 
